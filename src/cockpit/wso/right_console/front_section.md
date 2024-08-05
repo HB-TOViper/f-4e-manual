@@ -67,7 +67,7 @@ Knob positions (<num>2</num>) are:
 The HEAT lamp (<num>4</num>) illuminates when the system is placed into STBY mode, and remains
 illuminated for 2 minutes after the gyros have reached operating temperature.
 The system will not allow Gyro-compassing alignment if switched out of STBY
-before this lamp has shut off.
+before this lamp has shut off. 
 
 ### ALIGN Lamp
 
